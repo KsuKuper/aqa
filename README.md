@@ -7,6 +7,9 @@
 # git pull command
 ## Загружает все изменения локальной ветки в удалённый репозиторий
 ## $ git pull
-## ... эквивалентна следующим двум шагам:
-### git fetch
-### git merge origin/main
+#### ... эквивалентна следующим двум шагам:
+#### git fetch
+#### git merge origin/main
+
+# git commit --amend -m "text"
+## Изменяет предыдущий коммит
